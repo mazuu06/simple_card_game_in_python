@@ -54,7 +54,7 @@ class player(object):
 
 # deck = Deck()
 # deck.shuffle()
-# deck.show()
+# deck.show() 
 
 
 
