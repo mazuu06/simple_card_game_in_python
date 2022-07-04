@@ -51,11 +51,15 @@ class player(object):
 # card.show()
 
 
+
+# deck = Deck()
+# deck.shuffle()
+# deck.show()
+
+
+
 deck = Deck()
 deck.shuffle()
-deck.show()
-
-
-# bob =  player("Bob")
-# bob.draw(deck).draw(deck)
-# bob.showHand()
+bob =  player("Bob")
+bob.draw(deck).draw(deck)
+bob.showHand()
